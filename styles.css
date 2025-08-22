@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: grey;
+}
+
+.post {
+    width: 500px;
+    margin: 0px;
+    margin: auto;
+    background-color: white;
+}
+
+img {
+    width:500px;
+    
+}
+
+.margin {
+    background-color: grey;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+
+.icon-left {
+    display: flex;
+    flex-direction: row;
+}
+
+.html {
+    display: flex;
+    flex-direction: column;
+}
+.html p {
+    margin: 0;
+}
+.html h4 {
+    margin: 0;
+}
+
+.fa-brands.fa-html5 {
+    font-size: 35px;
+}
+
+.fa-solid.fa-ellipsis-vertical {
+    font-size: 30px;
+}
+
+.post-icons {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    padding: 10px;
+}
